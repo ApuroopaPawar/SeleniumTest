@@ -1,0 +1,270 @@
+[33mcommit 9d9e14ec3889c40f4eb8dd47092b3a29c8a6181f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Apuroopa Pawar <apuroopa.pawar@zensar.com>
+Date:   Fri Sep 27 17:29:07 2024 +0530
+
+    Updated README.md
+
+[33mcommit b1e3357ee4b3be001cb6eac7d87dd9ecbe91b441[m
+Author: AP65602 <AP65602@APPW46ZLPC1114.ind.zensar.com>
+Date:   Fri Sep 27 16:32:40 2024 +0530
+
+    first commit
+
+[33mcommit 25e26586a08fb813c5bd9129f176843e7da96c0e[m
+Author: Pullaiah Gundluru <g.pullaiah@zensar.com>
+Date:   Wed Sep 18 16:09:53 2024 +0530
+
+    Web Order base frame work created
+
+[33mcommit 849c4aaadb067811e9dd499a4aab81a588392a57[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 24 16:13:36 2024 +0530
+
+    Smoke test commits after changes
+
+[33mcommit 439880af6e64a4b084ca9cceb9e0acff2647f1ec[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 24 15:46:27 2024 +0530
+
+    VMI-Consignment -updated
+
+[33mcommit 00434b7dd9cc67c3ff980affe9c96e942ee1d8a7[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 24 15:32:52 2024 +0530
+
+    VMI type Commits
+
+[33mcommit 2a71e92fc056ee5450ebfd382f3d1eb4e9745ce5[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 24 12:52:26 2024 +0530
+
+    Reporting steps updated in jenkins
+
+[33mcommit d9594cced2fb2d50ffcd3b2259ff44443bdee887[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 24 11:58:39 2024 +0530
+
+    Item assoication related item code
+
+[33mcommit 79e6872d75b9f484b6a0540230294d32734c5ee8[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Tue Jul 23 17:51:14 2024 +0530
+
+    Activity log commit
+
+[33mcommit 1d976f6cc5b52a1b27c690c9bf05b1bc065dbc34[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:14:41 2024 +0200
+
+    Update Merchandise.feature
+
+[33mcommit 4b2249deedde58f23c0470a91c79ca0b1fa4e242[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:12:23 2024 +0200
+
+    Update ItemManagementSteps.java
+
+[33mcommit 6a2f0327a7c5dcf88f025e639e02eb9024d907cd[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:10:59 2024 +0200
+
+    Update ItemManagementPage.java
+
+[33mcommit 9b344865db600166257c60e7c90a8996c26665b5[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:08:29 2024 +0200
+
+    Upload New File
+
+[33mcommit e5c2386ebcc26585b2e4e7f30be5b33301cfe864[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:07:51 2024 +0200
+
+    Upload New File
+
+[33mcommit 9722db7126f84a993aadf885614097e837c584df[m
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Tue Jul 23 14:06:48 2024 +0200
+
+    Upload New File
+
+[33mcommit 492b01dcf556fb0173c66236cdd2ef0bb633a07f[m
+Author: Retesh Gorai <reteshg@pepkorit.com>
+Date:   Tue Jul 23 13:44:31 2024 +0200
+
+    removing the devops test file
+
+[33mcommit 593b682ee9f6c5d99d08e43507d41ddfe8ab998c[m
+Author: Retesh Gorai <reteshg@pepkorit.com>
+Date:   Tue Jul 23 10:02:04 2024 +0200
+
+    Add new file
+
+[33mcommit 9346b0f4a9aa4447ccded3ff316a1d61e5915cd2[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Mon Jul 22 22:34:16 2024 +0530
+
+    Organisation hierarchy completed
+
+[33mcommit cc16baf9f48bde9e015dca9e213d68fd768d1a76[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Mon Jul 22 14:12:04 2024 +0530
+
+    System parameter related code commits
+
+[33mcommit 18ce8567109f67c11ec3007f6ccab280bd409062[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Sun Jul 21 22:54:09 2024 +0530
+
+    System paramter and oranization hierarchy
+
+[33mcommit bd3b889eaa21654f73619298d8c492443028b872[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Fri Jul 19 13:46:03 2024 +0530
+
+    README File
+
+[33mcommit 41fe95b1f971b2b440bb86d572aedb914c820c41[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Fri Jul 19 12:22:19 2024 +0530
+
+    commit after item creation page and merchandise
+
+[33mcommit e0a93a694a16358b0f3221643d02d9ebc3dda613[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 19:36:23 2024 +0530
+
+    Jenkin file update
+
+[33mcommit 9bc423be4d806024198a4b5a198bf2a873090543[m
+Merge: 312e7cf b3ae55a
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Wed Jul 17 15:59:45 2024 +0200
+
+    Merge branch 'Automation_Pullaiah_QA' into 'master'
+    
+    Automation pullaiah qa
+    
+    See merge request merx/merx-test-automation/merx-test-automation-ui!5
+
+[33mcommit b3ae55af218d8bc87752d4a5742461e2d59722fc[m[33m ([m[1;32mAutomation_Pullaiah_QA[m[33m)[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 19:28:05 2024 +0530
+
+    Item management with jenkin file commit
+
+[33mcommit bbe5ba24a96cc694616c9c06921a6cedfb5ec6ce[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 15:52:02 2024 +0530
+
+    Base class and config changed
+
+[33mcommit 17c10697f45c79544b6964a245a39368e2352388[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 15:36:01 2024 +0530
+
+    Commit configure changes
+
+[33mcommit 3a92b06b7dd3150428dcdfb864313244eea5de8b[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 15:22:10 2024 +0530
+
+    Config files commit
+
+[33mcommit 312e7cff2da1b489650f44860fd22e6b680f64f0[m
+Merge: bad3827 47a212f
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Wed Jul 17 09:13:07 2024 +0200
+
+    Merge branch 'Automation_Pullaiah_QA' into 'master'
+    
+    DevopsCheck
+    
+    See merge request merx/merx-test-automation/merx-test-automation-ui!4
+
+[33mcommit 47a212f5ce843932784ae5fbcfb03f07d81f0228[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Wed Jul 17 12:39:05 2024 +0530
+
+    DevopsCheck
+
+[33mcommit bad38276e82a00c33a967b85d2ff142cca195c46[m
+Author: Prakash K <prakashk@pepkorit.com>
+Date:   Tue Jul 16 21:19:44 2024 +0530
+
+    Added Diff Value Scripts
+
+[33mcommit b2c1f1bda854e57d964f7c1b7358edd5f8b2ce95[m
+Merge: 7a5a1f8 d851f5d
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Mon Jul 15 11:50:19 2024 +0200
+
+    Merge branch 'Automation_Pullaiah_QA' into 'master'
+    
+    Test Runner updated
+    
+    See merge request merx/merx-test-automation/merx-test-automation-ui!3
+
+[33mcommit d851f5dcb2f65a411de9ec557b4a15bcf8b59f88[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Mon Jul 15 15:16:54 2024 +0530
+
+    Test Runner updated
+
+[33mcommit 7a5a1f8a494317206f9beb1d123e15a50efef6b6[m
+Merge: 7dcca74 33fcf0e
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Mon Jul 15 11:24:44 2024 +0200
+
+    Merge branch 'Automation_1' into 'master'
+    
+    Added Differentiator Type Scripts
+    
+    See merge request merx/merx-test-automation/merx-test-automation-ui!2
+
+[33mcommit 33fcf0e703b6eed84c875a06e09357768ffccc56[m
+Author: Prakash K <prakashk@pepkorit.com>
+Date:   Mon Jul 15 14:21:14 2024 +0530
+
+    Added Differentiator Type Scripts
+
+[33mcommit 7dcca74a7517329ec34f7559d7370b0b312ee5ae[m
+Merge: f1ed722 c842b3d
+Author: Pullaiah G <pullaiag@pepkorit.com>
+Date:   Mon Jul 15 07:49:40 2024 +0200
+
+    Merge branch 'Automation_1' into 'master'
+    
+    Updated Merchandise filters
+    
+    See merge request merx/merx-test-automation/merx-test-automation-ui!1
+
+[33mcommit c842b3d24ca1e0f3333d1877a846d547711cb584[m
+Author: Prakash K <prakashk@pepkorit.com>
+Date:   Fri Jul 12 21:15:35 2024 +0530
+
+    Updated Merchandise filters
+
+[33mcommit f1ed722c20e83b1a0b935dc432f9f0f238b3f642[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Fri Jul 12 19:25:45 2024 +0530
+
+    VAT master and TransferZone
+
+[33mcommit 4af2f1f1e6ef1bf9d10865cc25622a725cbf696d[m
+Author: Prakash K <prakashk@pepkorit.com>
+Date:   Tue Jul 9 16:09:51 2024 +0530
+
+    Updated Merchandise API endpoints
+
+[33mcommit 38f6f394e8cab66ec84dd30306fd7e09b0ae3f4b[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Tue Jul 9 15:59:56 2024 +0530
+
+    OrgaHierarchy update
+
+[33mcommit b7dbcee480bc8e212656ea373f621a6e6a22a6ca[m
+Author: gp105059 <gp105059@AKPW46ZLPC1265.ind.zensar.com>
+Date:   Tue Jul 9 15:32:40 2024 +0530
+
+    commit the Runn
