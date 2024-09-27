@@ -1,12 +1,12 @@
-D:\New Project\WebOrder-Automation\src\test\java\stepDefinitions\Hooks.java
-D:\New Project\WebOrder-Automation\src\test\java\factory\BaseClass.java
-D:\New Project\WebOrder-Automation\src\test\java\utilities\DataReader.java
-D:\New Project\WebOrder-Automation\src\test\java\pageObjects\WebOrderCreatedPage.java
-D:\New Project\WebOrder-Automation\src\test\java\stepDefinitions\WebOrderCreatedSteps.java
-D:\New Project\WebOrder-Automation\src\test\java\utilities\ExcelUtily.java
-D:\New Project\WebOrder-Automation\src\test\java\utilities\PropertiesReader.java
-D:\New Project\WebOrder-Automation\src\test\java\pageObjects\BasePage.java
-D:\New Project\WebOrder-Automation\src\test\java\pageObjects\WebOrderLoginPage.java
-D:\New Project\WebOrder-Automation\src\test\java\utilities\GenericUtilities.java
-D:\New Project\WebOrder-Automation\src\test\java\testRunner\TestRunner.java
-D:\New Project\WebOrder-Automation\src\test\java\stepDefinitions\WebOrderLoginSteps.java
+D:\WebOrder-Automation\src\test\java\testRunner\TestRunner.java
+D:\WebOrder-Automation\src\test\java\utilities\DataReader.java
+D:\WebOrder-Automation\src\test\java\stepDefinitions\WebOrderCreatedSteps.java
+D:\WebOrder-Automation\src\test\java\utilities\ExcelUtily.java
+D:\WebOrder-Automation\src\test\java\stepDefinitions\WebOrderLoginSteps.java
+D:\WebOrder-Automation\src\test\java\utilities\PropertiesReader.java
+D:\WebOrder-Automation\src\test\java\stepDefinitions\Hooks.java
+D:\WebOrder-Automation\src\test\java\factory\BaseClass.java
+D:\WebOrder-Automation\src\test\java\pageObjects\WebOrderCreatedPage.java
+D:\WebOrder-Automation\src\test\java\utilities\GenericUtilities.java
+D:\WebOrder-Automation\src\test\java\pageObjects\BasePage.java
+D:\WebOrder-Automation\src\test\java\pageObjects\WebOrderLoginPage.java

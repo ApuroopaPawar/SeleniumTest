@@ -72,3 +72,89 @@
 15:33:41.376 [TestNG-PoolService-1] INFO  - Entering email and password.. 
 15:33:41.495 [TestNG-PoolService-1] INFO  - Entering user IDTester
 15:33:43.876 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+13:54:27.374 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+13:54:27.388 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+13:54:27.551 [TestNG-PoolService-1] INFO  - Entering user IDTester
+13:54:30.093 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+15:20:34.612 [TestNG-PoolService-0] INFO  - Goto my Merx Application-->Click on Login.
+15:20:34.622 [TestNG-PoolService-0] INFO  - Entering email and password.. 
+15:21:23.980 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+15:21:23.994 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+15:21:24.143 [TestNG-PoolService-1] INFO  - Entering user IDTester
+15:21:27.929 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:46:14.982 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:46:14.999 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:46:15.152 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:46:17.124 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+18:25:06.313 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+18:25:06.331 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+18:25:06.531 [TestNG-PoolService-1] INFO  - Entering user IDTester
+18:25:09.249 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+18:30:38.246 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+18:30:38.304 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+18:30:38.523 [TestNG-PoolService-1] INFO  - Entering user IDTester
+18:30:40.904 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+18:44:22.476 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+18:44:22.494 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+18:44:22.701 [TestNG-PoolService-1] INFO  - Entering user IDTester
+18:44:24.807 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+18:48:18.585 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+18:48:18.600 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+18:48:18.804 [TestNG-PoolService-1] INFO  - Entering user IDTester
+18:48:20.866 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+13:22:38.733 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+13:22:38.748 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+13:22:38.908 [TestNG-PoolService-1] INFO  - Entering user IDTester
+13:22:41.659 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+15:39:27.918 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+15:39:27.927 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+15:39:28.095 [TestNG-PoolService-1] INFO  - Entering user IDTester
+15:39:40.007 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+16:15:31.491 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+16:15:31.504 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+16:15:31.675 [TestNG-PoolService-1] INFO  - Entering user IDTester
+16:15:34.366 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+16:41:30.684 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+16:41:30.684 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+16:41:30.825 [TestNG-PoolService-1] INFO  - Entering user IDTester
+16:41:33.261 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+16:52:11.663 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+16:52:11.678 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+16:52:11.837 [TestNG-PoolService-1] INFO  - Entering user IDTester
+16:52:14.274 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:12:35.481 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:12:35.489 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:12:35.633 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:12:37.960 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:41:21.354 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:41:21.370 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:41:21.531 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:41:24.320 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:44:05.781 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:44:05.797 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:44:05.962 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:44:08.472 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:48:27.210 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:48:27.240 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:48:27.415 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:48:30.032 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+17:52:27.389 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+17:52:27.408 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+17:52:27.618 [TestNG-PoolService-1] INFO  - Entering user IDTester
+17:52:30.248 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+18:13:38.525 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+18:13:38.542 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+18:13:38.767 [TestNG-PoolService-1] INFO  - Entering user IDTester
+18:13:40.945 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+15:44:09.494 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+15:44:09.510 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+15:44:09.835 [TestNG-PoolService-1] INFO  - Entering user IDTester
+15:44:12.540 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+15:48:02.312 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+15:48:02.318 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+15:48:02.421 [TestNG-PoolService-1] INFO  - Entering user IDTester
+15:48:04.697 [TestNG-PoolService-1] INFO  - clicked on Sign in button...
+15:49:40.359 [TestNG-PoolService-1] INFO  - Goto my Merx Application-->Click on Login.
+15:49:40.367 [TestNG-PoolService-1] INFO  - Entering email and password.. 
+15:49:40.489 [TestNG-PoolService-1] INFO  - Entering user IDTester
+15:49:42.950 [TestNG-PoolService-1] INFO  - clicked on Sign in button...

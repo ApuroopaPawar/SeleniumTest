@@ -42,6 +42,37 @@ public class WebOrderCreatedPage extends BasePage {
 	
 	@FindBy(xpath="//*[text()='Web Orders']")
 	 WebElement PgWebOrders;
+	
+	@FindBy(xpath="//select[@id='ctl00_MainContent_fmwOrder_ddlProduct']")
+	 WebElement Product;
+     
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_txtQuantity']")
+	 WebElement Quantity;
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_txtName']")
+	WebElement Customername;
+	
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_TextBox2']")
+	WebElement street;
+	
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_TextBox3']")
+	WebElement city;
+	
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_TextBox5']")
+	WebElement Zip;
+	
+	@FindBy(xpath="//*[@id=\"ctl00_MainContent_fmwOrder_TextBox6\"]")
+	WebElement cardNr;
+	
+	
+	@FindBy(xpath="//*[@id=\"ctl00_MainContent_fmwOrder_TextBox1\"]")
+	WebElement Expirydate;
+	
+	@FindBy(xpath="//input[@id='ctl00_MainContent_fmwOrder_cardList_0']")
+	WebElement card;
+	
+	@FindBy(xpath="//*[@id=\"ctl00_MainContent_fmwOrder_InsertButton\"]")
+	WebElement processbutton;
+	
 
     public void createWebOrder() throws InterruptedException {
     	//utils.waitForElementToBeVisiblewithFluentWait(lnkOrder, 3);
@@ -58,5 +89,48 @@ public class WebOrderCreatedPage extends BasePage {
     	utils.doesElementExist(PgWebOrders);
     }
     
+    public void productInformation(String strproductvalue,String Quantityvalue) throws InterruptedException {
+    	utils.selectValueFromDropdownByVisibleText(Product,strproductvalue);
+    	//Quantity.clear();
+    	//utils.setValueInEditBox(Quantity,Quantityvalue);
+    	
+    	WebElement element = Quantity;
 
-	}
+    	JavascriptExecutor js = (JavascriptExecutor) driver;
+    	js.executeScript("arguments[0].value='';", element);
+    	element.sendKeys((Quantityvalue).trim());
+    	
+    	Thread.sleep(1000);
+    	
+    }
+    
+    public void adressInformation(String strCustomerName,String strstreet,String strcity,String pinzip)
+    {
+    	
+    	utils.setValueInEditBox(Customername, strCustomerName);
+    	
+    	utils.setValueInEditBox(street, strstreet);
+    	
+    	utils.setValueInEditBox(city, strcity);
+    	
+    	utils.setValueInEditBox(Zip, pinzip);
+    }
+    public void enterPaymentInformation(String cardNumber,String strExpirydate) throws InterruptedException {
+    	utils.clickElementWithJavaScript(card);
+   
+    	utils.setValueInEditBox(cardNr, cardNumber); 
+       
+    	utils.setValueInEditBox(Expirydate,strExpirydate);
+    	Thread.sleep(10000);
+    	
+    	utils.clickElementWithJavaScript(processbutton);
+    	Thread.sleep(10000);
+    	
+    }
+   
+}
+
+    	
+    
+    
+  

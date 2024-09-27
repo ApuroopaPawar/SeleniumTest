@@ -12,4 +12,10 @@ Then The user should be redirected to the WeBpage Page
   @CreateOrder
   Scenario: Create am Order
     When I Create Web Order
+    And  create Product information
+    And  Enter Address Information
+    And  Enter Payment Information
+    
+    
+    
    

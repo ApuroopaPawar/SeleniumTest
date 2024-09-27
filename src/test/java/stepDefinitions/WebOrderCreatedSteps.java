@@ -40,13 +40,30 @@ public class WebOrderCreatedSteps {
 	
 	 @Then("The user should be redirected to the WeBpage Page")
 	    public void The_user_should_be_redirected_to_the_WeBpage_Page() throws InterruptedException, IncorrectXpathException {
-	        // Mnp=new MerxLoginPage(BaseClass.getDriver());
+	       
+		   
 		      Thread.sleep(10000);
 	    	WebOrderCreatePage.PageCheck();
 	        
 	        
 	    }
-	
-		
+	    @When("create Product information")
+	    public void create_Product_information() throws InterruptedException {
+	    WebOrderCreatePage.productInformation("FamilyAlbum","10");	
+	      Thread.sleep(10000);
+	    }
+	    
+	    @When("Enter Address Information")
+		  public void EnterTheAddressInformation() throws InterruptedException {
+		  WebOrderCreatePage.adressInformation("MARCIN","MIGBALAJINAGAR","Hyderabad","500072");
+		  Thread.sleep(1000);
+		  }
+	    @When("Enter Payment Information")
+	    public void Enter_Payment_Information() throws InterruptedException { 
+	        WebOrderCreatePage.enterPaymentInformation("1234","07/11");
+	        Thread.sleep(1000);
+	    }
+	    
+}
 
-	}
+	
