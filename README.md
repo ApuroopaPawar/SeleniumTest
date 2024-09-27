@@ -104,3 +104,4 @@ Html Report Path: merx-test-automation-ui/Report/CucumberExtentReport.html
     7.Check the results/report in the respective path/logs.
  
 
+# SeleniumTest
